@@ -39,7 +39,7 @@ body {
 
 .one {
   font-size: 3.5rem;
-  margin-left :2px;
+ text-indent:5px;
 }
 
 .one > img {
