@@ -39,7 +39,7 @@ body {
 
 .one {
   font-size: 3.5rem;
-  text-align: center;
+  margin-left :2px;
 }
 
 .one > img {
